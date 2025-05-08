@@ -1,4 +1,4 @@
-# Book 1 (Title Hidden)
+# Book Title
 
 ## Highlights
 
@@ -6,7 +6,7 @@
 
 - "The author highlights the importance of dialogue between opposing sides, emphasizing an alternative perspective on conflicts. They argue that forces at play do not necessarily predetermine an inevitable confrontation, but that there are always possibilities for mediation and resolution through a different approach."
 
-*Author Unknown*
+*Author Name*
 
 * * *
 
