@@ -49,7 +49,7 @@ This generates Markdown notes for each book in the `citations_output/` directory
 ```md
 # Book Title
 
-## Citazioni
+## Highlights
 
 - "Highlighted text from the book."
 - "Another important passage."
@@ -62,11 +62,11 @@ This generates Markdown notes for each book in the `citations_output/` directory
 highlight, passage, insight, bookname  
 
 ### *GoodReads:*  
-*Ho scritto su [GoodReads]():*  
+*I've written about this book on [GoodReads]():*  
 
 * * *
 
-### Quarta di copertina  
+### Book Summary 
 ```
 
 ## ⚖️ License  
